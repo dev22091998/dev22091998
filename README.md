@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'am Abdurakhmon Madaminov 👋
 
 <!--
 **dev22091998/dev22091998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
